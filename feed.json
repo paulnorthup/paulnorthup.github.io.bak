@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Adventures in Learning",
+    "description": "",
+    "home_page_url": "http://paulnorthup.com",
+    "feed_url": "http://paulnorthup.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Paul Northup"
+    },
+    "items": [
+        {
+            "id": "http://paulnorthup.com/frame-modifications.html",
+            "url": "http://paulnorthup.com/frame-modifications.html",
+            "title": "Frame modifications",
+            "summary": "cut the back of the two-up seat off and welded on a new rear hoop ground off the bosses for the foot pegs in prep for rearsets cleaned up around the old unused tabs curving the rear shock mount trim around the new rear hoop&hellip;",
+            "content_html": "<p>cut the back of the two-up seat off and welded on a new rear hoop</p>\n<p>ground off the bosses for the foot pegs in prep for rearsets</p>\n<p>cleaned up around the old unused tabs</p>\n<p>curving the rear shock mount trim around the new rear hoop<br><br></p>\n<p><img class=\"post__image\" src=\"http://paulnorthup.com/media/posts/1/60735958760__3C46F230-0602-4D25-A9CA-82068CD37271.jpeg\" alt=\"\" width=\"4032\" height=\"600\"></p>",
+            "author": {
+                "name": "Paul Northup"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-02T07:54:04-04:00",
+            "date_modified": "2020-04-02T07:55:59-04:00"
+        }
+    ]
+}

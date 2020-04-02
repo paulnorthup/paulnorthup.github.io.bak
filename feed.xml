@@ -1,30 +1,36 @@
----
-layout: null
----
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
-    {% endfor %}
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Adventures in Learning</title>
+    <link href="http://paulnorthup.com/feed.xml" rel="self" />
+    <link href="http://paulnorthup.com" />
+    <updated>2020-04-02T07:56:03-04:00</updated>
+    <author>
+        <name>Paul Northup</name>
+    </author>
+    <id>http://paulnorthup.com</id>
+
+    <entry>
+        <title>Frame modifications</title>
+        <author>
+            <name>Paul Northup</name>
+        </author>
+        <link href="http://paulnorthup.com/frame-modifications.html"/>
+        <id>http://paulnorthup.com/frame-modifications.html</id>
+
+        <updated>2020-04-02T07:55:59-04:00</updated>
+            <summary>
+                <![CDATA[
+                    cut the back of the two-up seat off and welded on a new rear hoop ground off the bosses for the foot pegs in prep for rearsets cleaned up around the old unused tabs curving the rear shock mount trim around the new rear hoop&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>cut the back of the two-up seat off and welded on a new rear hoop</p>
+<p>ground off the bosses for the foot pegs in prep for rearsets</p>
+<p>cleaned up around the old unused tabs</p>
+<p>curving the rear shock mount trim around the new rear hoop<br><br></p>
+<p><img class="post__image" src="http://paulnorthup.com/media/posts/1/60735958760__3C46F230-0602-4D25-A9CA-82068CD37271.jpeg" alt="" width="4032" height="600"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
