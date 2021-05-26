@@ -1,46 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Adventures in Learning</title>
-    <link href="http://paulnorthup.com/feed.xml" rel="self" />
-    <link href="http://paulnorthup.com" />
-    <updated>2020-04-14T11:33:59-04:00</updated>
+    <title>Adventures and Learning</title>
+    <link href="https://paulnorthup.com/feed.xml" rel="self" />
+    <link href="https://paulnorthup.com" />
+    <updated>2021-05-26T08:56:22-04:00</updated>
     <author>
         <name>Paul Northup</name>
     </author>
-    <id>http://paulnorthup.com</id>
+    <id>https://paulnorthup.com</id>
 
     <entry>
-        <title>Rear subframe modifications</title>
+        <title>KZ Rear subframe modification</title>
         <author>
             <name>Paul Northup</name>
         </author>
-        <link href="http://paulnorthup.com/frame-modifications.html"/>
-        <id>http://paulnorthup.com/frame-modifications.html</id>
-            <category term="Motorcycle"/>
-            <category term="KZ550"/>
+        <link href="https://paulnorthup.com/kz-rear-subframe-mods.html"/>
+        <id>https://paulnorthup.com/kz-rear-subframe-mods.html</id>
 
-        <updated>2020-04-14T11:26:24-04:00</updated>
+        <updated>2021-05-26T08:56:22-04:00</updated>
             <summary>
                 <![CDATA[
-                    I started by cutting the back of the rear subframe off and welding on a new hoop to give a nice clean rounded "butt" to the bike. I realized there was a problem with the new hoop when I mocked up a seat with some&hellip;
+                     I started by cutting the back of the rear subframe off and welding on a new hoop to give a nice clean rounded "butt" to the bike. I realized there was a problem with the new hoop when I mocked up a seat with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I started by cutting the back of the rear subframe off and welding on a new hoop to give a nice clean rounded "butt" to the bike.</p>
-<figure class="post__image post__image--center" ><img src="http://paulnorthup.com/media/posts/1/rear-hoop.jpg" alt="New hoop welded on" width="580" height="600">
-<figcaption >New hoop welded on</figcaption>
-</figure>
-<p>I realized there was a problem with the new hoop when I mocked up a seat with some carpet foam. I figured a standard size café/brat seat would look pretty good, so I went with ~2" of foam, but it looked horrible. The angle of the rear subframe on the LTD model of a KZ550 is steep to support a two-up "King and Queen" seat, not the style I was looking for.</p>
-<figure class="post__image post__image--center" ><img src="http://paulnorthup.com/media/posts/1/ugly-seat.JPG" alt="" width="600" height="450">
-<figcaption >Here is the ugly seat, with the tire mocked up for positioning. The ramp is longer than the flat section... yuck.</figcaption>
-</figure>
-<p>I spent some time thinking about the seat frame, mocking up different seat options with cardboard, etc. After a while, I got so frustrated with making no progress I cut off the hoop, chopped the rest of the rear seat frame off, and welded the hoop back on. this gave me a much more aggressive look, and the proportions really started to come together.</p>
-<figure class="post__image post__image--center" ><img src="http://paulnorthup.com/media/posts/1/short-seat.JPG" alt="" width="2072" height="1554">
-<figcaption >If life gives you subframe lemons, chop them right out and don't worry about 'em.</figcaption>
-</figure>
-<p>Along with the subframe work, I grinded off the rest of the frame tabs I wasn't going to use and bent the old rear shock mount supports around the new hoop to keep the original lines of the bike. Happy with the progress so far.<br><br></p>
-<p> </p>
+                
+  <p>
+    I started by cutting the back of the rear subframe off and welding on a new hoop to give a nice clean rounded "butt" to the bike.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://paulnorthup.com/media/posts/1/rear-hoop-lg-2.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://paulnorthup.com/media/posts/1/responsive/rear-hoop-lg-2-xs.jpeg 300w ,https://paulnorthup.com/media/posts/1/responsive/rear-hoop-lg-2-sm.jpeg 480w ,https://paulnorthup.com/media/posts/1/responsive/rear-hoop-lg-2-md.jpeg 768w ,https://paulnorthup.com/media/posts/1/responsive/rear-hoop-lg-2-lg.jpeg 1024w ,https://paulnorthup.com/media/posts/1/responsive/rear-hoop-lg-2-xl.jpeg 1360w ,https://paulnorthup.com/media/posts/1/responsive/rear-hoop-lg-2-2xl.jpeg 1600w"  height="1060" width="1024" alt="" />
+      
+    </figure>
+
+  <p>
+    I realized there was a problem with the new hoop when I mocked up a seat with some carpet foam. I figured a standard size café/brat seat would look pretty good, so I went with ~2" of foam, but it looked horrible. The angle of the rear subframe on the LTD model of a KZ550 is steep to support a two-up "King and Queen" seat, not the style I was looking for.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://paulnorthup.com/media/posts/1/ugly-seat-xl.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://paulnorthup.com/media/posts/1/responsive/ugly-seat-xl-xs.jpeg 300w ,https://paulnorthup.com/media/posts/1/responsive/ugly-seat-xl-sm.jpeg 480w ,https://paulnorthup.com/media/posts/1/responsive/ugly-seat-xl-md.jpeg 768w ,https://paulnorthup.com/media/posts/1/responsive/ugly-seat-xl-lg.jpeg 1024w ,https://paulnorthup.com/media/posts/1/responsive/ugly-seat-xl-xl.jpeg 1360w ,https://paulnorthup.com/media/posts/1/responsive/ugly-seat-xl-2xl.jpeg 1600w"  height="1020" width="1360" alt="" />
+      
+    </figure>
+
+  <p>
+    Here is the ugly seat, with the tire mocked up for positioning. The ramp is longer than the flat section... yuck.<br>I spent some time thinking about the seat frame, mocking up different seat options with cardboard, etc. After a while, I got so frustrated with making no progress I cut off the hoop, chopped the rest of the rear seat frame off, and welded the hoop back on. this gave me a much more aggressive look, and the proportions really started to come together.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://paulnorthup.com/media/posts/1/short-seat-2xl.jpeg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://paulnorthup.com/media/posts/1/responsive/short-seat-2xl-xs.jpeg 300w ,https://paulnorthup.com/media/posts/1/responsive/short-seat-2xl-sm.jpeg 480w ,https://paulnorthup.com/media/posts/1/responsive/short-seat-2xl-md.jpeg 768w ,https://paulnorthup.com/media/posts/1/responsive/short-seat-2xl-lg.jpeg 1024w ,https://paulnorthup.com/media/posts/1/responsive/short-seat-2xl-xl.jpeg 1360w ,https://paulnorthup.com/media/posts/1/responsive/short-seat-2xl-2xl.jpeg 1600w"  height="1200" width="1600" alt="" />
+      
+    </figure>
+
+  <p>
+    If life gives you subframe lemons, chop them right out and don't worry about 'em.<br>Along with the subframe work, I grinded off the rest of the frame tabs I wasn't going to use and bent the old rear shock mount supports around the new hoop to keep the original lines of the bike. Happy with the progress so far.
+  </p>
             ]]>
         </content>
     </entry>
